@@ -1,0 +1,8 @@
+1. adminpanel->
+    univeristy form validate[frontend and backend]
+    map
+    contact us table
+
+2. frontendpanel->
+    contact page
+    subscription
